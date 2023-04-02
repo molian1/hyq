@@ -1,0 +1,7 @@
+git init
+git add 
+git config --global user.email "1465402607@qq.com"
+git config --global user.name "hyq"
+git commit -m "add files"
+git branch -M main
+git  remote add  origin git@github.com:molian1/hyq.git
